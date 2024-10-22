@@ -1,4 +1,4 @@
-// volumeIcon.addEventListener("click", mute_sound);
+
 const musicTitle = document.getElementById("music-title");
 const musicArtist = document.getElementById("music-artist");
 const cover = document.getElementById("cover");
